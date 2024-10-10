@@ -3,7 +3,7 @@
 ## 1. Background and Overview of the Dataset
 In recent years, the prevalence of credit card fraud has increased significantly, necessitating the development of robust detection systems. This project utilizes the Credit Card Fraud Detection dataset obtained from Kaggle, which contains transactions made by European cardholders in September 2013. The dataset consists of 284,807 transactions, with only 492 being fraudulent, indicating a significant class imbalance. The dataset includes 30 anonymized features (V1 to V28, Time, and Amount) derived from PCA (Principal Component Analysis) transformation, ensuring the confidentiality of the cardholders' information.
 
-You can find the data set here[https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud]
+You can find the data set herehttps://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ## 2. Data Structure Overview
 The dataset comprises:
